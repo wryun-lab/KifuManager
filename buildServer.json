@@ -12,7 +12,7 @@
 	"argv": [
 		"/opt/homebrew/bin/xcode-build-server"
 	],
-	"workspace": "/Users/wryun/dev/KifuManager/src/KifuManager.xcodeproj/project.xcworkspace",
+	"workspace": "/Users/wryun/dev/KifuManager/src/ios/KifuManager.xcodeproj/project.xcworkspace",
 	"build_root": "/Users/wryun/Library/Developer/Xcode/DerivedData/KifuManager-faaenpqhrpesblbejpiftjkcqzfb",
 	"scheme": "KifuManager",
 	"kind": "xcode"
